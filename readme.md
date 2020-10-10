@@ -5,4 +5,4 @@ Tic-tac-toe game using python.
 - pip install pipenv
 - pipenv install
 
-![](game_image.png)
+![](game_image.PNG)
